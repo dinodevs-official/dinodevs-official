@@ -11,7 +11,7 @@
 ## 🌍 Connect with Me:
 [![Instagram](https://img.shields.io/badge/Instagram-dinodevs__official-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dinodevs_official)
 [![Medium](https://img.shields.io/badge/Medium-dinodevs__official-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dinodevs_official)
-[![GitHub](https://img.shields.io/badge/GitHub-DINODEVS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourgithubusername)
+[![GitHub](https://img.shields.io/badge/GitHub-DINODEVS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dinodevs-official)
 
 ---
 
@@ -33,8 +33,8 @@
 ---
 
 ## 🚀 Featured Projects:
-- 🛠 **Project 1:** AI-Powered Productivity Tool  
-- 📊 **Project 2:** SaaS Dashboard for Businesses  
-- 🔥 **Project 3:** OpenAI-Powered Chatbot  
+- 🛠 **Project 1:** SOLUTION BUDDY 
+- 📊 **Project 2:** COMING SOON
+- 🔥 **Project 3:** COMING SOON
 
 ✨ Always innovating & pushing the boundaries of web development! 🚀
