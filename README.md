@@ -1,7 +1,7 @@
 # **SAMMI AKTHER - Solo App Developer | Founder of DINODEVS**
 
 ## About Me:
-👨‍💻 **Solo App Developer** building cutting-edge SaaS, tools, and AI-powered applications under the **DINODEVS** brand.  
+👨‍💻 **Solo App Developer** building cutting-edge SaaS, tools, and AI-powered applications under the **DINODEVS** brand! 
 🚀 Passionate about **Next.js, JavaScript, React, Firebase, OpenAI**, and more, crafting efficient, scalable, and user-friendly applications.  
 📈 **Innovative** software developer focused on **building professional-grade, impactful products**.  
 🎯 Focused on creating **efficient**, **scalable**, and **user-centered applications** to meet the ever-evolving needs of the digital world.  
