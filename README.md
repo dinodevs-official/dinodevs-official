@@ -12,8 +12,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-dinodevs__official-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dinodevs_official)  
 [![Medium](https://img.shields.io/badge/Medium-dinodevs__official-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dinodevs_official)  
 [![GitHub](https://img.shields.io/badge/GitHub-DINODEVS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dinodevs-official)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SammiAkther-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sammiakther)  
-[![Twitter](https://img.shields.io/badge/Twitter-DINODEVS-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dinodevs_official)
 
 ---
 
