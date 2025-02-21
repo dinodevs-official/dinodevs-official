@@ -33,7 +33,7 @@
 ---
 
 ## 🚀 Featured Projects:
-- 🛠 **Project 1:** SOLUTION BUDDY 
+- 🛠 **Project 1:** [MonkMode](https://themonkmode.vercel.app/) 
 - 📊 **Project 2:** COMING SOON
 - 🔥 **Project 3:** COMING SOON
 
