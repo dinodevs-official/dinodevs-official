@@ -38,8 +38,9 @@
   A productivity app designed to help individuals achieve focus and mindfulness. Take a look at the repo to see the tech stack and architecture.  
   [Check out the full project](https://github.com/dinodevs-official/MonkMode)
   
-- **📊 [Project 2 - COMING SOON]**  
-  Stay tuned for another groundbreaking product aimed at transforming the way you work!
+- **📊 [Binexx](https://binexx-five.vercel.app/):**  
+  An AI powered-Trading APP which follows 1M pattern and gives you accurate prediction.  
+  [Check out the full project](https://github.com/dinodevs-official/Binexx---AI-Trading-APP/)
 
 - **🔥 [Project 3 - COMING SOON]**  
   A powerful tool in development that will take productivity to the next level.
